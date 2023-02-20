@@ -1,8 +1,5 @@
 package lv_0;
 
-import java.util.ArrayDeque;
-import java.util.Queue;
-
 public class Lv_0_문자열계산하기 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package lv_0;
 
-import java.util.Scanner;
-
 public class Lv_0_영어가싫어요 {
 
 	public static void main(String[] args) {
@@ -11,7 +9,6 @@ public class Lv_0_영어가싫어요 {
 	}
 	
 	public long solution(String numbers) {
-        long answer = 0;
         String[] num = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
         
         System.out.println((int)'O');

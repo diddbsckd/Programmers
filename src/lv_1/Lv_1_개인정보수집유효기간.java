@@ -1,7 +1,5 @@
 package lv_1;
 
-import java.util.HashMap;
-
 public class Lv_1_개인정보수집유효기간 {
 
 	public static void main(String[] args) {
@@ -24,7 +22,6 @@ public class Lv_1_개인정보수집유효기간 {
         
         
         for(int i=0; i<privacies.length; i++) {
-        	String[] A = privacies[i].split(" ");
         }
         
         
